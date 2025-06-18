@@ -1,4 +1,4 @@
-![Image](Untitled Project.jpg)
+![Logo](Untitled Project.jpg)
 
 
 
