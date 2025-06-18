@@ -1,10 +1,9 @@
 <div align="center">
-  <img height="150" src=![Untitled Project](https://github.com/user-attachments/assets/72e7e5c6-7113-4a8b-8ae2-72043be9cf40)  />
 </div>
 
 ###
 
-<h1 align="center">Welcome to MacOS Juniper</h1>
+<h1 align="center">Welcome to MacOS Juniper (Untitled Project.jpg)</h1>
 
 ###
 
