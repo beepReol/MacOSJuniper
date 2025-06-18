@@ -1,6 +1,6 @@
 # MacOSJuniper
 <div align="center">
-  <img height="150" src="https://imgur.com/TDXUf9H"  />
+  <img height="150" src="https://imgur.com/a/qywMPKj"  />
 </div>
 
 ###
