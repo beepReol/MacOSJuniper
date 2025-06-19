@@ -19,3 +19,5 @@
 ##### - New design, Aero! This new design will define Juniper as a unique concept distro with it's own flair
 ##### - Built in Wine support for those who want their software compatibility
 ##### - Slow but huge updates every 6 months
+
+![Logo](Preview.png)
