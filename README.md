@@ -20,7 +20,7 @@
 ##### - Built in Wine support for those who want their software compatibility
 ##### - Slow but huge updates every 6 months
 
-![Logo](20250620_1351_Sequoia Themed Colors_simple_compose_01jy6jv5z1fpj993cdwzhd8ztx.png)
+![Logo](Background.png)
 ####### The background of your future desktop
 
 ##### My current release, Bloom, will be the base of what Atlas will evolve to be. Bloom 1.0.1 will release this winter as a limited time preview.
