@@ -1,4 +1,4 @@
-![Logo](Atlas-Banner.jpg)
+![Logo](Atlas-banner.jpg)
 
 
 
