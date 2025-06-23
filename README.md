@@ -17,7 +17,7 @@
 ###### Your gorgeous system starting up
 
 #### Current Features
-##### - Fully editable distro, with every picture able to be changed no matter what. This way, Juniper will truly be yours to edit however you want. This allows for custom icon packs!
+##### - Fully editable distro, with every picture able to be changed no matter what. This way, Atlas will truly be yours to edit however you want. This allows for custom icon packs!
 ##### - Back to basic with a design based on Ventura
 ##### - New design, Aero! This new design will define Atlas as a unique concept distro with it's own flair
 ##### - Built in Wine support for those who want their software compatibility
