@@ -1,4 +1,4 @@
-![Logo](Untitled-Project2.jpg)
+![Logo](Atlas-Banner.jpg)
 
 
 
